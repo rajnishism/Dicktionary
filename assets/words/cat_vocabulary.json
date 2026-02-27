@@ -1,0 +1,402 @@
+[
+  {
+    "word": "abate",
+    "meaning": "to reduce in intensity or amount",
+    "example": "The storm suddenly abated after midnight.",
+    "difficulty": "Medium",
+    "options": ["Increase", "Reduce", "Fight", "Explain"],
+    "correctOption": 1
+  },
+  {
+    "word": "aberrant",
+    "meaning": "departing from an accepted standard",
+    "example": "His aberrant behavior raised concerns among his colleagues.",
+    "difficulty": "Hard",
+    "options": ["Normal", "Deviant", "Consistent", "Expected"],
+    "correctOption": 1
+  },
+  {
+    "word": "abscond",
+    "meaning": "to leave hurriedly and secretly",
+    "example": "The thief absconded with the jewelry before anyone noticed.",
+    "difficulty": "Medium",
+    "options": ["Stay", "Flee", "Arrive", "Announce"],
+    "correctOption": 1
+  },
+  {
+    "word": "abstemious",
+    "meaning": "moderate in eating and drinking",
+    "example": "Despite the feast, she remained abstemious.",
+    "difficulty": "Hard",
+    "options": ["Gluttonous", "Moderate", "Excessive", "Hungry"],
+    "correctOption": 1
+  },
+  {
+    "word": "acumen",
+    "meaning": "ability to make good judgments",
+    "example": "Her business acumen helped the company thrive.",
+    "difficulty": "Medium",
+    "options": ["Stupidity", "Insight", "Confusion", "Weakness"],
+    "correctOption": 1
+  },
+  {
+    "word": "admonish",
+    "meaning": "to warn or reprimand firmly",
+    "example": "The teacher admonished the students for being late.",
+    "difficulty": "Easy",
+    "options": ["Praise", "Warn", "Ignore", "Reward"],
+    "correctOption": 1
+  },
+  {
+    "word": "aesthetic",
+    "meaning": "concerned with beauty or art",
+    "example": "The building has great aesthetic appeal.",
+    "difficulty": "Easy",
+    "options": ["Ugly", "Beautiful", "Functional", "Practical"],
+    "correctOption": 1
+  },
+  {
+    "word": "alacrity",
+    "meaning": "brisk and cheerful readiness",
+    "example": "She accepted the challenge with alacrity.",
+    "difficulty": "Hard",
+    "options": ["Reluctance", "Eagerness", "Slowness", "Hesitation"],
+    "correctOption": 1
+  },
+  {
+    "word": "ambiguous",
+    "meaning": "open to more than one interpretation",
+    "example": "His ambiguous statement confused everyone.",
+    "difficulty": "Easy",
+    "options": ["Clear", "Unclear", "Definite", "Obvious"],
+    "correctOption": 1
+  },
+  {
+    "word": "ameliorate",
+    "meaning": "to make something better",
+    "example": "The new policy helped ameliorate working conditions.",
+    "difficulty": "Medium",
+    "options": ["Worsen", "Improve", "Maintain", "Destroy"],
+    "correctOption": 1
+  },
+  {
+    "word": "anachronism",
+    "meaning": "something belonging to a different time period",
+    "example": "A typewriter in a modern office is an anachronism.",
+    "difficulty": "Hard",
+    "options": ["Modern item", "Outdated item", "Useful tool", "New invention"],
+    "correctOption": 1
+  },
+  {
+    "word": "analogous",
+    "meaning": "comparable in certain respects",
+    "example": "The heart is analogous to a pump.",
+    "difficulty": "Medium",
+    "options": ["Different", "Similar", "Opposite", "Unrelated"],
+    "correctOption": 1
+  },
+  {
+    "word": "anomaly",
+    "meaning": "something that deviates from the norm",
+    "example": "The test results showed an anomaly that needed investigation.",
+    "difficulty": "Medium",
+    "options": ["Normality", "Irregularity", "Pattern", "Standard"],
+    "correctOption": 1
+  },
+  {
+    "word": "antipathy",
+    "meaning": "a deep-seated feeling of dislike",
+    "example": "There was clear antipathy between the two rivals.",
+    "difficulty": "Hard",
+    "options": ["Love", "Hatred", "Friendship", "Sympathy"],
+    "correctOption": 1
+  },
+  {
+    "word": "apathy",
+    "meaning": "lack of interest or concern",
+    "example": "Voter apathy was blamed for the low turnout.",
+    "difficulty": "Easy",
+    "options": ["Enthusiasm", "Indifference", "Passion", "Interest"],
+    "correctOption": 1
+  },
+  {
+    "word": "arbitrary",
+    "meaning": "based on random choice rather than reason",
+    "example": "The decision seemed arbitrary and unfair.",
+    "difficulty": "Medium",
+    "options": ["Logical", "Random", "Systematic", "Planned"],
+    "correctOption": 1
+  },
+  {
+    "word": "archaic",
+    "meaning": "very old or old-fashioned",
+    "example": "The archaic laws needed to be updated.",
+    "difficulty": "Easy",
+    "options": ["Modern", "Ancient", "New", "Contemporary"],
+    "correctOption": 1
+  },
+  {
+    "word": "arduous",
+    "meaning": "involving or requiring strenuous effort",
+    "example": "The arduous journey took three days.",
+    "difficulty": "Medium",
+    "options": ["Easy", "Difficult", "Simple", "Pleasant"],
+    "correctOption": 1
+  },
+  {
+    "word": "articulate",
+    "meaning": "having or showing clear expression",
+    "example": "She gave an articulate presentation of her ideas.",
+    "difficulty": "Easy",
+    "options": ["Unclear", "Clear", "Confused", "Silent"],
+    "correctOption": 1
+  },
+  {
+    "word": "ascetic",
+    "meaning": "characterized by severe self-discipline",
+    "example": "The monk led an ascetic lifestyle.",
+    "difficulty": "Hard",
+    "options": ["Luxurious", "Austere", "Comfortable", "Indulgent"],
+    "correctOption": 1
+  },
+  {
+    "word": "assuage",
+    "meaning": "to make less intense or severe",
+    "example": "Nothing could assuage his grief.",
+    "difficulty": "Hard",
+    "options": ["Intensify", "Relieve", "Increase", "Aggravate"],
+    "correctOption": 1
+  },
+  {
+    "word": "audacious",
+    "meaning": "showing a willingness to take bold risks",
+    "example": "His audacious plan surprised everyone.",
+    "difficulty": "Medium",
+    "options": ["Timid", "Bold", "Cautious", "Fearful"],
+    "correctOption": 1
+  },
+  {
+    "word": "austere",
+    "meaning": "severe or strict in manner or appearance",
+    "example": "The room had an austere, minimalist design.",
+    "difficulty": "Medium",
+    "options": ["Lavish", "Simple", "Ornate", "Decorated"],
+    "correctOption": 1
+  },
+  {
+    "word": "banal",
+    "meaning": "so lacking in originality as to be obvious",
+    "example": "The movie's plot was banal and predictable.",
+    "difficulty": "Medium",
+    "options": ["Original", "Commonplace", "Unique", "Creative"],
+    "correctOption": 1
+  },
+  {
+    "word": "benevolent",
+    "meaning": "well meaning and kindly",
+    "example": "The benevolent donor gave generously to charity.",
+    "difficulty": "Easy",
+    "options": ["Cruel", "Kind", "Mean", "Harsh"],
+    "correctOption": 1
+  },
+  {
+    "word": "bolster",
+    "meaning": "to support or strengthen",
+    "example": "The evidence helped bolster their argument.",
+    "difficulty": "Medium",
+    "options": ["Weaken", "Strengthen", "Destroy", "Undermine"],
+    "correctOption": 1
+  },
+  {
+    "word": "burgeon",
+    "meaning": "to begin to grow or increase rapidly",
+    "example": "The city's population began to burgeon.",
+    "difficulty": "Hard",
+    "options": ["Shrink", "Grow", "Decline", "Reduce"],
+    "correctOption": 1
+  },
+  {
+    "word": "cacophony",
+    "meaning": "a harsh, discordant mixture of sounds",
+    "example": "The cacophony of car horns was deafening.",
+    "difficulty": "Hard",
+    "options": ["Harmony", "Noise", "Melody", "Silence"],
+    "correctOption": 1
+  },
+  {
+    "word": "candid",
+    "meaning": "truthful and straightforward",
+    "example": "She gave a candid interview about her struggles.",
+    "difficulty": "Easy",
+    "options": ["Dishonest", "Honest", "Deceptive", "Secretive"],
+    "correctOption": 1
+  },
+  {
+    "word": "capricious",
+    "meaning": "given to sudden changes of mood or behavior",
+    "example": "The weather was capricious and unpredictable.",
+    "difficulty": "Hard",
+    "options": ["Stable", "Unpredictable", "Consistent", "Reliable"],
+    "correctOption": 1
+  },
+  {
+    "word": "catalyst",
+    "meaning": "something that causes change",
+    "example": "The scandal was the catalyst for reform.",
+    "difficulty": "Medium",
+    "options": ["Barrier", "Trigger", "Obstacle", "Prevention"],
+    "correctOption": 1
+  },
+  {
+    "word": "caustic",
+    "meaning": "sarcastic in a scathing way",
+    "example": "His caustic remarks hurt her feelings.",
+    "difficulty": "Hard",
+    "options": ["Kind", "Harsh", "Gentle", "Pleasant"],
+    "correctOption": 1
+  },
+  {
+    "word": "censure",
+    "meaning": "to express severe disapproval",
+    "example": "The committee voted to censure the member.",
+    "difficulty": "Medium",
+    "options": ["Praise", "Criticize", "Approve", "Commend"],
+    "correctOption": 1
+  },
+  {
+    "word": "circumspect",
+    "meaning": "wary and unwilling to take risks",
+    "example": "He was circumspect about making promises.",
+    "difficulty": "Hard",
+    "options": ["Reckless", "Cautious", "Careless", "Bold"],
+    "correctOption": 1
+  },
+  {
+    "word": "coalesce",
+    "meaning": "to come together to form one mass",
+    "example": "The various groups coalesced into a single movement.",
+    "difficulty": "Hard",
+    "options": ["Separate", "Unite", "Divide", "Scatter"],
+    "correctOption": 1
+  },
+  {
+    "word": "cogent",
+    "meaning": "clear, logical, and convincing",
+    "example": "She presented a cogent argument.",
+    "difficulty": "Hard",
+    "options": ["Weak", "Convincing", "Illogical", "Confusing"],
+    "correctOption": 1
+  },
+  {
+    "word": "complacent",
+    "meaning": "showing smug satisfaction with oneself",
+    "example": "The team became complacent after their early success.",
+    "difficulty": "Medium",
+    "options": ["Ambitious", "Self-satisfied", "Driven", "Motivated"],
+    "correctOption": 1
+  },
+  {
+    "word": "conciliatory",
+    "meaning": "intended to placate or pacify",
+    "example": "He made a conciliatory gesture to end the dispute.",
+    "difficulty": "Hard",
+    "options": ["Hostile", "Peaceful", "Aggressive", "Confrontational"],
+    "correctOption": 1
+  },
+  {
+    "word": "condone",
+    "meaning": "to accept behavior that is considered wrong",
+    "example": "The school does not condone bullying.",
+    "difficulty": "Medium",
+    "options": ["Condemn", "Overlook", "Punish", "Reject"],
+    "correctOption": 1
+  },
+  {
+    "word": "convoluted",
+    "meaning": "extremely complex and difficult to follow",
+    "example": "The plot was too convoluted to understand.",
+    "difficulty": "Medium",
+    "options": ["Simple", "Complex", "Clear", "Straightforward"],
+    "correctOption": 1
+  },
+  {
+    "word": "copious",
+    "meaning": "abundant in supply or quantity",
+    "example": "She took copious notes during the lecture.",
+    "difficulty": "Medium",
+    "options": ["Scarce", "Abundant", "Limited", "Minimal"],
+    "correctOption": 1
+  },
+  {
+    "word": "corroborate",
+    "meaning": "to confirm or give support to",
+    "example": "The witness corroborated his story.",
+    "difficulty": "Hard",
+    "options": ["Deny", "Confirm", "Contradict", "Oppose"],
+    "correctOption": 1
+  },
+  {
+    "word": "credulous",
+    "meaning": "too ready to believe things",
+    "example": "He was credulous enough to believe the scam.",
+    "difficulty": "Hard",
+    "options": ["Skeptical", "Gullible", "Doubtful", "Suspicious"],
+    "correctOption": 1
+  },
+  {
+    "word": "cryptic",
+    "meaning": "having a meaning that is mysterious",
+    "example": "She left a cryptic message on his desk.",
+    "difficulty": "Medium",
+    "options": ["Clear", "Mysterious", "Obvious", "Transparent"],
+    "correctOption": 1
+  },
+  {
+    "word": "cursory",
+    "meaning": "hasty and therefore not thorough",
+    "example": "He gave the document only a cursory glance.",
+    "difficulty": "Hard",
+    "options": ["Thorough", "Superficial", "Detailed", "Careful"],
+    "correctOption": 1
+  },
+  {
+    "word": "cynical",
+    "meaning": "believing that people are motivated by self-interest",
+    "example": "She had a cynical view of politics.",
+    "difficulty": "Easy",
+    "options": ["Optimistic", "Distrustful", "Trusting", "Hopeful"],
+    "correctOption": 1
+  },
+  {
+    "word": "daunt",
+    "meaning": "to make someone feel intimidated",
+    "example": "The challenge did not daunt her.",
+    "difficulty": "Medium",
+    "options": ["Encourage", "Intimidate", "Inspire", "Motivate"],
+    "correctOption": 1
+  },
+  {
+    "word": "deference",
+    "meaning": "humble submission and respect",
+    "example": "He showed deference to his elders.",
+    "difficulty": "Medium",
+    "options": ["Disrespect", "Respect", "Rudeness", "Contempt"],
+    "correctOption": 1
+  },
+  {
+    "word": "deleterious",
+    "meaning": "causing harm or damage",
+    "example": "Smoking has deleterious effects on health.",
+    "difficulty": "Hard",
+    "options": ["Beneficial", "Harmful", "Helpful", "Positive"],
+    "correctOption": 1
+  },
+  {
+    "word": "delineate",
+    "meaning": "to describe or portray precisely",
+    "example": "The report delineates the main issues.",
+    "difficulty": "Hard",
+    "options": ["Obscure", "Describe", "Hide", "Confuse"],
+    "correctOption": 1
+  }
+]

@@ -1,0 +1,652 @@
+[
+    {
+        "word": "abstruse",
+        "meaning": "difficult to understand",
+        "example": "The professor's abstruse theories confused most students.",
+        "difficulty": "Hard",
+        "options": [
+            "Simple",
+            "Obscure",
+            "Clear",
+            "Easy"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "accolade",
+        "meaning": "an award or privilege granted as a special honor",
+        "example": "She received many accolades for her groundbreaking research.",
+        "difficulty": "Medium",
+        "options": [
+            "Criticism",
+            "Award",
+            "Punishment",
+            "Failure"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "adulterate",
+        "meaning": "to make impure by adding inferior substances",
+        "example": "The company was fined for adulterating the milk with water.",
+        "difficulty": "Hard",
+        "options": [
+            "Purify",
+            "Contaminate",
+            "Improve",
+            "Enhance"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "advocate",
+        "meaning": "to publicly recommend or support",
+        "example": "She advocates for environmental protection.",
+        "difficulty": "Easy",
+        "options": [
+            "Oppose",
+            "Support",
+            "Reject",
+            "Deny"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "aggrandize",
+        "meaning": "to increase the power or status of",
+        "example": "He sought to aggrandize his position through flattery.",
+        "difficulty": "Hard",
+        "options": [
+            "Diminish",
+            "Enhance",
+            "Reduce",
+            "Weaken"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "alleviate",
+        "meaning": "to make less severe",
+        "example": "The medicine helped alleviate her pain.",
+        "difficulty": "Medium",
+        "options": [
+            "Worsen",
+            "Relieve",
+            "Intensify",
+            "Aggravate"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "amalgamate",
+        "meaning": "to combine or unite to form one structure",
+        "example": "The two companies decided to amalgamate.",
+        "difficulty": "Hard",
+        "options": [
+            "Separate",
+            "Merge",
+            "Divide",
+            "Split"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "ambivalent",
+        "meaning": "having mixed feelings about something",
+        "example": "She felt ambivalent about accepting the job offer.",
+        "difficulty": "Medium",
+        "options": [
+            "Certain",
+            "Uncertain",
+            "Decisive",
+            "Clear"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "amenable",
+        "meaning": "open and responsive to suggestion",
+        "example": "He was amenable to changing the schedule.",
+        "difficulty": "Medium",
+        "options": [
+            "Resistant",
+            "Agreeable",
+            "Stubborn",
+            "Inflexible"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "anachronistic",
+        "meaning": "belonging to a period other than that being portrayed",
+        "example": "The film contained several anachronistic elements.",
+        "difficulty": "Hard",
+        "options": [
+            "Modern",
+            "Outdated",
+            "Contemporary",
+            "Current"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "anecdote",
+        "meaning": "a short amusing or interesting story",
+        "example": "He told an anecdote about his childhood.",
+        "difficulty": "Easy",
+        "options": [
+            "Fact",
+            "Story",
+            "Theory",
+            "Argument"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "antithesis",
+        "meaning": "a person or thing that is the direct opposite",
+        "example": "Love is the antithesis of hate.",
+        "difficulty": "Medium",
+        "options": [
+            "Similarity",
+            "Opposite",
+            "Equivalent",
+            "Match"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "apocryphal",
+        "meaning": "of doubtful authenticity",
+        "example": "The apocryphal story has never been verified.",
+        "difficulty": "Hard",
+        "options": [
+            "Genuine",
+            "Fake",
+            "Authentic",
+            "Real"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "appease",
+        "meaning": "to pacify or placate someone",
+        "example": "They tried to appease the angry customers.",
+        "difficulty": "Medium",
+        "options": [
+            "Anger",
+            "Calm",
+            "Provoke",
+            "Irritate"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "approbation",
+        "meaning": "approval or praise",
+        "example": "The plan met with widespread approbation.",
+        "difficulty": "Hard",
+        "options": [
+            "Disapproval",
+            "Approval",
+            "Criticism",
+            "Rejection"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "arcane",
+        "meaning": "understood by few; mysterious",
+        "example": "The arcane rituals were known only to initiates.",
+        "difficulty": "Hard",
+        "options": [
+            "Common",
+            "Secret",
+            "Public",
+            "Obvious"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "archetype",
+        "meaning": "a very typical example of a certain person or thing",
+        "example": "He is the archetype of a successful entrepreneur.",
+        "difficulty": "Medium",
+        "options": [
+            "Exception",
+            "Model",
+            "Anomaly",
+            "Deviation"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "ardent",
+        "meaning": "enthusiastic or passionate",
+        "example": "She was an ardent supporter of the cause.",
+        "difficulty": "Medium",
+        "options": [
+            "Indifferent",
+            "Passionate",
+            "Apathetic",
+            "Cold"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "artless",
+        "meaning": "without guile or deception",
+        "example": "Her artless manner was refreshing.",
+        "difficulty": "Hard",
+        "options": [
+            "Cunning",
+            "Sincere",
+            "Deceptive",
+            "Crafty"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "assiduous",
+        "meaning": "showing great care and perseverance",
+        "example": "His assiduous efforts paid off.",
+        "difficulty": "Hard",
+        "options": [
+            "Lazy",
+            "Diligent",
+            "Careless",
+            "Negligent"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "attenuate",
+        "meaning": "to reduce the force or effect of something",
+        "example": "The drug attenuates the symptoms.",
+        "difficulty": "Hard",
+        "options": [
+            "Strengthen",
+            "Weaken",
+            "Enhance",
+            "Amplify"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "audacity",
+        "meaning": "willingness to take bold risks",
+        "example": "He had the audacity to challenge the CEO.",
+        "difficulty": "Medium",
+        "options": [
+            "Timidity",
+            "Boldness",
+            "Caution",
+            "Fear"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "augment",
+        "meaning": "to make something greater",
+        "example": "They augmented their income with freelance work.",
+        "difficulty": "Medium",
+        "options": [
+            "Decrease",
+            "Increase",
+            "Reduce",
+            "Diminish"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "auspicious",
+        "meaning": "conducive to success; favorable",
+        "example": "It was an auspicious beginning to their partnership.",
+        "difficulty": "Medium",
+        "options": [
+            "Unfavorable",
+            "Favorable",
+            "Unlucky",
+            "Ominous"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "avarice",
+        "meaning": "extreme greed for wealth",
+        "example": "His avarice led to his downfall.",
+        "difficulty": "Hard",
+        "options": [
+            "Generosity",
+            "Greed",
+            "Charity",
+            "Kindness"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "banal",
+        "meaning": "lacking in originality",
+        "example": "The speech was filled with banal platitudes.",
+        "difficulty": "Medium",
+        "options": [
+            "Original",
+            "Trite",
+            "Unique",
+            "Fresh"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "belie",
+        "meaning": "to fail to give a true notion or impression",
+        "example": "Her calm demeanor belied her inner turmoil.",
+        "difficulty": "Hard",
+        "options": [
+            "Reveal",
+            "Contradict",
+            "Confirm",
+            "Show"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "bellicose",
+        "meaning": "demonstrating aggression",
+        "example": "His bellicose remarks escalated the conflict.",
+        "difficulty": "Hard",
+        "options": [
+            "Peaceful",
+            "Aggressive",
+            "Calm",
+            "Friendly"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "benign",
+        "meaning": "gentle and kindly",
+        "example": "The tumor was benign, not cancerous.",
+        "difficulty": "Easy",
+        "options": [
+            "Harmful",
+            "Harmless",
+            "Dangerous",
+            "Malignant"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "bombastic",
+        "meaning": "high-sounding but with little meaning",
+        "example": "The politician's bombastic speech impressed no one.",
+        "difficulty": "Hard",
+        "options": [
+            "Simple",
+            "Pompous",
+            "Modest",
+            "Humble"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "boorish",
+        "meaning": "rough and bad-mannered",
+        "example": "His boorish behavior offended the guests.",
+        "difficulty": "Medium",
+        "options": [
+            "Polite",
+            "Rude",
+            "Refined",
+            "Courteous"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "bucolic",
+        "meaning": "relating to the pleasant aspects of the countryside",
+        "example": "They enjoyed a bucolic retreat in the mountains.",
+        "difficulty": "Hard",
+        "options": [
+            "Urban",
+            "Rural",
+            "Industrial",
+            "Metropolitan"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "burdensome",
+        "meaning": "difficult to carry out or fulfill",
+        "example": "The burdensome regulations slowed progress.",
+        "difficulty": "Easy",
+        "options": [
+            "Easy",
+            "Difficult",
+            "Light",
+            "Simple"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "buttress",
+        "meaning": "to increase the strength of or justification for",
+        "example": "The evidence buttressed their argument.",
+        "difficulty": "Hard",
+        "options": [
+            "Weaken",
+            "Support",
+            "Undermine",
+            "Damage"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "calamity",
+        "meaning": "an event causing great damage or distress",
+        "example": "The earthquake was a terrible calamity.",
+        "difficulty": "Medium",
+        "options": [
+            "Fortune",
+            "Disaster",
+            "Success",
+            "Blessing"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "callous",
+        "meaning": "showing no concern for others",
+        "example": "His callous remarks hurt her deeply.",
+        "difficulty": "Medium",
+        "options": [
+            "Sensitive",
+            "Insensitive",
+            "Caring",
+            "Compassionate"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "calumny",
+        "meaning": "the making of false statements to damage reputation",
+        "example": "She was a victim of calumny.",
+        "difficulty": "Hard",
+        "options": [
+            "Praise",
+            "Slander",
+            "Compliment",
+            "Flattery"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "candor",
+        "meaning": "the quality of being open and honest",
+        "example": "I appreciate your candor in this matter.",
+        "difficulty": "Medium",
+        "options": [
+            "Dishonesty",
+            "Honesty",
+            "Deception",
+            "Secrecy"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "canonical",
+        "meaning": "according to recognized rules or principles",
+        "example": "The canonical texts are studied by all scholars.",
+        "difficulty": "Hard",
+        "options": [
+            "Unorthodox",
+            "Standard",
+            "Irregular",
+            "Unconventional"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "capacious",
+        "meaning": "having a lot of space inside",
+        "example": "The capacious trunk held all their luggage.",
+        "difficulty": "Hard",
+        "options": [
+            "Small",
+            "Spacious",
+            "Cramped",
+            "Tiny"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "capitulate",
+        "meaning": "to cease to resist an opponent",
+        "example": "The army was forced to capitulate.",
+        "difficulty": "Hard",
+        "options": [
+            "Resist",
+            "Surrender",
+            "Fight",
+            "Oppose"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "castigate",
+        "meaning": "to reprimand severely",
+        "example": "The coach castigated the team for their poor performance.",
+        "difficulty": "Hard",
+        "options": [
+            "Praise",
+            "Criticize",
+            "Reward",
+            "Compliment"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "cerebral",
+        "meaning": "intellectual rather than emotional",
+        "example": "His approach to problems was very cerebral.",
+        "difficulty": "Medium",
+        "options": [
+            "Emotional",
+            "Intellectual",
+            "Physical",
+            "Instinctive"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "charlatan",
+        "meaning": "a person falsely claiming to have special knowledge",
+        "example": "The doctor turned out to be a charlatan.",
+        "difficulty": "Hard",
+        "options": [
+            "Expert",
+            "Fraud",
+            "Professional",
+            "Specialist"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "chicanery",
+        "meaning": "the use of trickery to achieve a goal",
+        "example": "Political chicanery undermined public trust.",
+        "difficulty": "Hard",
+        "options": [
+            "Honesty",
+            "Deception",
+            "Integrity",
+            "Truthfulness"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "churlish",
+        "meaning": "rude in a mean-spirited way",
+        "example": "His churlish response was uncalled for.",
+        "difficulty": "Hard",
+        "options": [
+            "Polite",
+            "Rude",
+            "Courteous",
+            "Gracious"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "circumlocution",
+        "meaning": "the use of many words where fewer would do",
+        "example": "His circumlocution made the speech tedious.",
+        "difficulty": "Hard",
+        "options": [
+            "Brevity",
+            "Wordiness",
+            "Conciseness",
+            "Directness"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "clandestine",
+        "meaning": "kept secret or done secretively",
+        "example": "They held a clandestine meeting.",
+        "difficulty": "Medium",
+        "options": [
+            "Open",
+            "Secret",
+            "Public",
+            "Obvious"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "clemency",
+        "meaning": "mercy; lenience",
+        "example": "The judge showed clemency to the first-time offender.",
+        "difficulty": "Medium",
+        "options": [
+            "Harshness",
+            "Mercy",
+            "Cruelty",
+            "Severity"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "coerce",
+        "meaning": "to persuade using force or threats",
+        "example": "They tried to coerce him into signing the contract.",
+        "difficulty": "Medium",
+        "options": [
+            "Persuade gently",
+            "Force",
+            "Request",
+            "Suggest"
+        ],
+        "correctOption": 1
+    }
+]

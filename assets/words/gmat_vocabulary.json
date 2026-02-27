@@ -1,0 +1,652 @@
+[
+    {
+        "word": "aberration",
+        "meaning": "a departure from what is normal or expected",
+        "example": "The sudden drop in sales was an aberration.",
+        "difficulty": "Medium",
+        "options": [
+            "Normality",
+            "Deviation",
+            "Standard",
+            "Pattern"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "abeyance",
+        "meaning": "a state of temporary disuse or suspension",
+        "example": "The project was held in abeyance pending approval.",
+        "difficulty": "Hard",
+        "options": [
+            "Activity",
+            "Suspension",
+            "Progress",
+            "Continuation"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "abridge",
+        "meaning": "to shorten by condensing",
+        "example": "The editor abridged the manuscript significantly.",
+        "difficulty": "Medium",
+        "options": [
+            "Expand",
+            "Shorten",
+            "Lengthen",
+            "Extend"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "absolve",
+        "meaning": "to declare someone free from blame or responsibility",
+        "example": "The court absolved him of all charges.",
+        "difficulty": "Medium",
+        "options": [
+            "Blame",
+            "Exonerate",
+            "Accuse",
+            "Condemn"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "abstain",
+        "meaning": "to restrain oneself from doing something",
+        "example": "He decided to abstain from voting.",
+        "difficulty": "Easy",
+        "options": [
+            "Participate",
+            "Refrain",
+            "Engage",
+            "Join"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "accentuate",
+        "meaning": "to make more noticeable or prominent",
+        "example": "The lighting accentuated the room's features.",
+        "difficulty": "Easy",
+        "options": [
+            "Minimize",
+            "Emphasize",
+            "Reduce",
+            "Downplay"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "acquiesce",
+        "meaning": "to accept something reluctantly but without protest",
+        "example": "She acquiesced to their demands.",
+        "difficulty": "Hard",
+        "options": [
+            "Resist",
+            "Agree",
+            "Oppose",
+            "Reject"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "acrimonious",
+        "meaning": "angry and bitter",
+        "example": "The divorce proceedings were acrimonious.",
+        "difficulty": "Hard",
+        "options": [
+            "Pleasant",
+            "Bitter",
+            "Friendly",
+            "Harmonious"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "adept",
+        "meaning": "very skilled or proficient",
+        "example": "She is adept at problem-solving.",
+        "difficulty": "Easy",
+        "options": [
+            "Unskilled",
+            "Skilled",
+            "Incompetent",
+            "Clumsy"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "adherent",
+        "meaning": "someone who supports a particular party or set of ideas",
+        "example": "He was an adherent of the new philosophy.",
+        "difficulty": "Medium",
+        "options": [
+            "Opponent",
+            "Supporter",
+            "Critic",
+            "Enemy"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "admonish",
+        "meaning": "to warn or reprimand someone firmly",
+        "example": "The manager admonished the employee for being late.",
+        "difficulty": "Medium",
+        "options": [
+            "Praise",
+            "Warn",
+            "Reward",
+            "Compliment"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "adversity",
+        "meaning": "difficulties or misfortune",
+        "example": "They showed great courage in the face of adversity.",
+        "difficulty": "Easy",
+        "options": [
+            "Fortune",
+            "Hardship",
+            "Success",
+            "Prosperity"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "aesthetic",
+        "meaning": "concerned with beauty or the appreciation of beauty",
+        "example": "The building has great aesthetic value.",
+        "difficulty": "Easy",
+        "options": [
+            "Ugly",
+            "Beautiful",
+            "Functional",
+            "Practical"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "affable",
+        "meaning": "friendly and easy to talk to",
+        "example": "The host was affable and welcoming.",
+        "difficulty": "Medium",
+        "options": [
+            "Unfriendly",
+            "Friendly",
+            "Hostile",
+            "Cold"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "aggregate",
+        "meaning": "a whole formed by combining several elements",
+        "example": "The aggregate score determined the winner.",
+        "difficulty": "Medium",
+        "options": [
+            "Individual",
+            "Total",
+            "Separate",
+            "Single"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "alacrity",
+        "meaning": "brisk and cheerful readiness",
+        "example": "She accepted the offer with alacrity.",
+        "difficulty": "Hard",
+        "options": [
+            "Reluctance",
+            "Eagerness",
+            "Hesitation",
+            "Slowness"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "altruistic",
+        "meaning": "showing unselfish concern for others",
+        "example": "Her altruistic actions inspired many.",
+        "difficulty": "Medium",
+        "options": [
+            "Selfish",
+            "Selfless",
+            "Greedy",
+            "Self-centered"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "ambiguous",
+        "meaning": "open to more than one interpretation",
+        "example": "The contract contained ambiguous language.",
+        "difficulty": "Easy",
+        "options": [
+            "Clear",
+            "Unclear",
+            "Definite",
+            "Precise"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "ameliorate",
+        "meaning": "to make something bad better",
+        "example": "The new policy ameliorated working conditions.",
+        "difficulty": "Hard",
+        "options": [
+            "Worsen",
+            "Improve",
+            "Maintain",
+            "Destroy"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "amiable",
+        "meaning": "having a friendly and pleasant manner",
+        "example": "He was an amiable companion.",
+        "difficulty": "Easy",
+        "options": [
+            "Unfriendly",
+            "Friendly",
+            "Hostile",
+            "Mean"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "amorphous",
+        "meaning": "without a clearly defined shape or form",
+        "example": "The plan was still amorphous.",
+        "difficulty": "Hard",
+        "options": [
+            "Structured",
+            "Shapeless",
+            "Organized",
+            "Defined"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "anachronism",
+        "meaning": "something belonging to a different time period",
+        "example": "The old phone booth is an anachronism.",
+        "difficulty": "Medium",
+        "options": [
+            "Modern item",
+            "Outdated item",
+            "Current trend",
+            "New invention"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "analogous",
+        "meaning": "comparable in certain respects",
+        "example": "The situation is analogous to what happened last year.",
+        "difficulty": "Medium",
+        "options": [
+            "Different",
+            "Similar",
+            "Opposite",
+            "Unrelated"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "anarchy",
+        "meaning": "a state of disorder due to absence of authority",
+        "example": "The country descended into anarchy.",
+        "difficulty": "Medium",
+        "options": [
+            "Order",
+            "Chaos",
+            "Control",
+            "Organization"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "animosity",
+        "meaning": "strong hostility",
+        "example": "There was deep animosity between the rivals.",
+        "difficulty": "Medium",
+        "options": [
+            "Friendship",
+            "Hatred",
+            "Love",
+            "Affection"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "anomaly",
+        "meaning": "something that deviates from what is standard",
+        "example": "The data showed a strange anomaly.",
+        "difficulty": "Medium",
+        "options": [
+            "Normality",
+            "Irregularity",
+            "Pattern",
+            "Standard"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "antecedent",
+        "meaning": "a thing that existed before or logically precedes another",
+        "example": "Understanding the antecedents is crucial.",
+        "difficulty": "Hard",
+        "options": [
+            "Consequence",
+            "Predecessor",
+            "Result",
+            "Effect"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "antipathy",
+        "meaning": "a deep-seated feeling of dislike",
+        "example": "She felt antipathy toward the new policy.",
+        "difficulty": "Hard",
+        "options": [
+            "Sympathy",
+            "Dislike",
+            "Affection",
+            "Love"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "apathy",
+        "meaning": "lack of interest or concern",
+        "example": "Public apathy toward voting is concerning.",
+        "difficulty": "Easy",
+        "options": [
+            "Enthusiasm",
+            "Indifference",
+            "Passion",
+            "Interest"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "apex",
+        "meaning": "the top or highest part of something",
+        "example": "He reached the apex of his career.",
+        "difficulty": "Easy",
+        "options": [
+            "Bottom",
+            "Peak",
+            "Base",
+            "Foundation"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "apprehensive",
+        "meaning": "anxious or fearful about the future",
+        "example": "She was apprehensive about the interview.",
+        "difficulty": "Easy",
+        "options": [
+            "Confident",
+            "Anxious",
+            "Calm",
+            "Relaxed"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "arbitrary",
+        "meaning": "based on random choice rather than reason",
+        "example": "The decision seemed arbitrary.",
+        "difficulty": "Medium",
+        "options": [
+            "Logical",
+            "Random",
+            "Systematic",
+            "Reasoned"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "arcane",
+        "meaning": "understood by few; mysterious or secret",
+        "example": "The arcane knowledge was passed down through generations.",
+        "difficulty": "Hard",
+        "options": [
+            "Common",
+            "Secret",
+            "Public",
+            "Obvious"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "ardent",
+        "meaning": "enthusiastic or passionate",
+        "example": "He was an ardent supporter of the team.",
+        "difficulty": "Medium",
+        "options": [
+            "Indifferent",
+            "Passionate",
+            "Apathetic",
+            "Lukewarm"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "articulate",
+        "meaning": "having or showing the ability to speak fluently",
+        "example": "She is very articulate in her presentations.",
+        "difficulty": "Easy",
+        "options": [
+            "Inarticulate",
+            "Eloquent",
+            "Unclear",
+            "Confused"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "ascertain",
+        "meaning": "to find out for certain",
+        "example": "We need to ascertain the facts.",
+        "difficulty": "Medium",
+        "options": [
+            "Guess",
+            "Determine",
+            "Assume",
+            "Speculate"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "assiduous",
+        "meaning": "showing great care and perseverance",
+        "example": "Her assiduous work ethic impressed everyone.",
+        "difficulty": "Hard",
+        "options": [
+            "Lazy",
+            "Diligent",
+            "Careless",
+            "Negligent"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "astute",
+        "meaning": "having the ability to accurately assess situations",
+        "example": "He made an astute business decision.",
+        "difficulty": "Medium",
+        "options": [
+            "Foolish",
+            "Shrewd",
+            "Naive",
+            "Stupid"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "atrophy",
+        "meaning": "to gradually decline in effectiveness",
+        "example": "Without practice, skills can atrophy.",
+        "difficulty": "Medium",
+        "options": [
+            "Grow",
+            "Decline",
+            "Strengthen",
+            "Develop"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "attenuate",
+        "meaning": "to reduce the force or effect of something",
+        "example": "The medication attenuates the pain.",
+        "difficulty": "Hard",
+        "options": [
+            "Strengthen",
+            "Weaken",
+            "Enhance",
+            "Amplify"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "audacious",
+        "meaning": "showing a willingness to take surprisingly bold risks",
+        "example": "The audacious plan surprised everyone.",
+        "difficulty": "Medium",
+        "options": [
+            "Timid",
+            "Bold",
+            "Cautious",
+            "Fearful"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "augment",
+        "meaning": "to make something greater by adding to it",
+        "example": "They augmented their team with new hires.",
+        "difficulty": "Medium",
+        "options": [
+            "Decrease",
+            "Increase",
+            "Reduce",
+            "Diminish"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "austere",
+        "meaning": "severe or strict in manner or appearance",
+        "example": "The room had an austere design.",
+        "difficulty": "Medium",
+        "options": [
+            "Lavish",
+            "Simple",
+            "Ornate",
+            "Luxurious"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "autonomous",
+        "meaning": "having the freedom to act independently",
+        "example": "The region is autonomous.",
+        "difficulty": "Easy",
+        "options": [
+            "Dependent",
+            "Independent",
+            "Controlled",
+            "Subordinate"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "avarice",
+        "meaning": "extreme greed for wealth or material gain",
+        "example": "His avarice knew no bounds.",
+        "difficulty": "Hard",
+        "options": [
+            "Generosity",
+            "Greed",
+            "Charity",
+            "Altruism"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "banal",
+        "meaning": "so lacking in originality as to be obvious",
+        "example": "The plot was banal and predictable.",
+        "difficulty": "Medium",
+        "options": [
+            "Original",
+            "Trite",
+            "Unique",
+            "Creative"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "belligerent",
+        "meaning": "hostile and aggressive",
+        "example": "His belligerent attitude caused problems.",
+        "difficulty": "Medium",
+        "options": [
+            "Peaceful",
+            "Aggressive",
+            "Friendly",
+            "Calm"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "benevolent",
+        "meaning": "well meaning and kindly",
+        "example": "The benevolent organization helps the poor.",
+        "difficulty": "Easy",
+        "options": [
+            "Cruel",
+            "Kind",
+            "Mean",
+            "Harsh"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "bolster",
+        "meaning": "to support or strengthen",
+        "example": "The new evidence bolstered their case.",
+        "difficulty": "Medium",
+        "options": [
+            "Weaken",
+            "Strengthen",
+            "Undermine",
+            "Damage"
+        ],
+        "correctOption": 1
+    },
+    {
+        "word": "brevity",
+        "meaning": "concise and exact use of words",
+        "example": "The brevity of his speech was appreciated.",
+        "difficulty": "Medium",
+        "options": [
+            "Verbosity",
+            "Conciseness",
+            "Wordiness",
+            "Length"
+        ],
+        "correctOption": 1
+    }
+]
